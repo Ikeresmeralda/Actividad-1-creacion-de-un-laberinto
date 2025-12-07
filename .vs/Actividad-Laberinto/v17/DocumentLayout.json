@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IKERE\\Desktop\\UNIR\\MotoresVideojuegos\\GIT\\Actividad-Laberinto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8FF94F-31C5-135D-5337-34276894A0CF}|Assembly-CSharp.csproj|c:\\users\\ikere\\desktop\\unir\\motoresvideojuegos\\git\\actividad-laberinto\\assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8FF94F-31C5-135D-5337-34276894A0CF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoJugador.cs",
+              "DocumentMoniker": "C:\\Users\\IKERE\\Desktop\\UNIR\\MotoresVideojuegos\\GIT\\Actividad-Laberinto\\Assets\\Scripts\\MovimientoJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoJugador.cs",
+              "ToolTip": "C:\\Users\\IKERE\\Desktop\\UNIR\\MotoresVideojuegos\\GIT\\Actividad-Laberinto\\Assets\\Scripts\\MovimientoJugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T21:40:01.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
